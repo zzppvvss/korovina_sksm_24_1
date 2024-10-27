@@ -1,3 +1,3 @@
-# korovina_sksm_24_1
+# Коровіна Д. С., СКСм-24-1
 
-A new Flutter project.
+ЛБ#1, ПрМП
